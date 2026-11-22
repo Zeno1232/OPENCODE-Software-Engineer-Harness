@@ -1,0 +1,18 @@
+# Maven
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code (e extensões)
+.vscode/
+.project
+.classpath
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.log
+hs_err_pid*
